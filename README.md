@@ -1,0 +1,1 @@
+SUPERMAN is the PoS-based cryptocurrency which will beat the internet in 2018!

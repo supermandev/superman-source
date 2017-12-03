@@ -1,0 +1,9 @@
+Building SUPERMAN
+
+See doc/readme-qt.rst for instructions on building SUPERMAN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SUPERMAN.
+
+See doc/build-*.txt for instructions on building supermand,
+the intended-for-services, no-graphical-interface, reference
+implementation of SUPERMAN.
